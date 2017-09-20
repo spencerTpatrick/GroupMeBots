@@ -28,6 +28,7 @@ This repository shows example GroupMe bots using Google App Scripts and GroupMe'
       * Click Deploy
 5. You should now see a new popup with your "Current web app URL", this is what you will populate as your GroupMe bot's Callback URL
 
-
+## Examples
+[Stock Tick](https://github.com/spencerTpatrick/GroupMeBots/blob/master/stocktick.gs)
 
 Credit to https://github.com/william-reed/ for an incredible tutorial on creating GroupMe Bots
